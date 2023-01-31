@@ -5,49 +5,49 @@
 
  <summary>
   <code>GET</code> 
- <code>api</code> 
+ <code>/api</code> 
  <code><b>/CarRent</b></code> 
  <code>/All</code>
 </summary>
 
  <summary>
   <code>GET</code> 
- <code>api</code> 
+ <code>/api</code> 
  <code><b>/CarRent</b></code> 
  <code>/{id}</code>
 </summary>
 
  <summary>
   <code>DELETE</code> 
- <code>api</code> 
+ <code>/api</code> 
  <code><b>/CarRent</b></code> 
  <code>/{id}</code>
 </summary>
 
  <summary>
   <code>GET</code> 
- <code>api</code> 
+ <code>/api</code> 
  <code><b>/CarRent</b></code> 
  <code>/{model}</code>
 </summary>
 
  <summary>
   <code>POST</code> 
- <code>api</code> 
+ <code>/api</code> 
  <code><b>/CarRent</b></code> 
  <code>/Create</code>
 </summary>
 
  <summary>
   <code>PUT</code> 
- <code>api</code> 
+ <code>/api</code>  
  <code><b>/CarRent</b></code> 
  
 </summary>
 
  <summary>
   <code>PATCH</code> 
- <code>api</code> 
+ <code>/api</code> 
  <code><b>/CarRent</b></code> 
   <code>/{id}</code>
  <code>/UpdatePartial</code>
